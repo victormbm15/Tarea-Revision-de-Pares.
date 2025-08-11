@@ -51,7 +51,7 @@ bashnpm start
 
 Abre tu navegador
 
-La aplicación estará disponible en http://localhost:3000
+La aplicación estará disponible en (https://claude.ai/public/artifacts/a9db3490-3bb1-48b9-8faa-d448e4ef1a7c)
 
 
 
