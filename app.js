@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Provider } from 'react-redux';
-import { store } from './store/store';
+import { store } from './Store';
 import HomePage from './components/HomePage';
 import ProductsPage from './components/ProductsPage';
 import CartPage from './components/CartPage';
