@@ -1,3 +1,4 @@
+// 📁 src/data/plants.js
 export const plants = [
   // Plantas de Interior
   { id: 1, name: "Monstera Deliciosa", price: 45.99, category: "Interior", image: "🌿" },
